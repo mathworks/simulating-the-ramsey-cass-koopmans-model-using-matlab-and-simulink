@@ -1,6 +1,6 @@
 # Simulating the Ramsey-Cass-Koopmans Model Using MATLAB and Simulink
 
-[![View Simulating the Ramsey-Cass-Koopmans Model Using MATLAB and Simulink on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://uk.mathworks.com/matlabcentral/fileexchange/59422-simulating-the-ramsey-cass-koopmans-model-using-matlab-and-simulink)
+[![View Simulating the Ramsey-Cass-Koopmans Model Using MATLAB and Simulink on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/59422-simulating-the-ramsey-cass-koopmans-model)
 
 Many economic and financial models, such as those for resource allocation or optimal growth, involve systems of differential equations with no explicit analytical solution. Solving these systems numerically and visualizing results are important tasks for economists and other financial analysts.
 
