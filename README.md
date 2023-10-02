@@ -1,6 +1,6 @@
 # Simulating the Ramsey-Cass-Koopmans Model Using MATLAB and Simulink
 
-[![View Simulating the Ramsey-Cass-Koopmans Model Using MATLAB and Simulink on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://uk.mathworks.com/matlabcentral/fileexchange/59422-simulating-the-ramsey-cass-koopmans-model-using-matlab-and-simulink)
+[![View Simulating the Ramsey-Cass-Koopmans Model Using MATLAB and Simulink on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/59422-simulating-the-ramsey-cass-koopmans-model)
 
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/simulating-the-ramsey-cass-koopmans-model-using-matlab-and-simulink&file=createRCKModel.mlx)
 
