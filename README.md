@@ -1,14 +1,13 @@
 # Simulating the Ramsey-Cass-Koopmans Model Using MATLAB and Simulink
 
-[![View Simulating the Ramsey-Cass-Koopmans Model Using MATLAB and Simulink on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/59422-simulating-the-ramsey-cass-koopmans-model)
-
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/simulating-the-ramsey-cass-koopmans-model-using-matlab-and-simulink&project=RCK.prj&file=createRCKModel.mlx)
+[![View Simulating the Ramsey-Cass-Koopmans Model Using MATLAB and Simulink on File Exchange](readme/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/59422-simulating-the-ramsey-cass-koopmans-model)
+[![Open in MATLAB Online](readme/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=mathworks/simulating-the-ramsey-cass-koopmans-model-using-matlab-and-simulink&project=RCK.prj&file=createRCKModel.mlx)
 
 Many economic and financial models, such as those for resource allocation or optimal growth, involve systems of differential equations with no explicit analytical solution. Solving these systems numerically and visualizing results are important tasks for economists and other financial analysts.
 
 Using the fundamental Ramsey-Cass-Koopmans (RCK) model as an example, this code, along with the corresponding [technical article](https://uk.mathworks.com/company/newsletters/articles/simulating-the-ramsey-cass-koopmans-model-using-matlab-and-simulink.html), describes two workflows for creating, simulating, and visualizing a system of ordinary differential equations (ODEs). One approach is based on MATLAB&reg;, the other on Simulink&reg;. The MATLAB approach uses programming techniques familiar to financial professionals who work in a technical computing environment. The Simulink approach offers a visual modeling environment and graphical representation of the system.
 
-![](PhasePlane.png)
+![](readme/PhasePlane.png)
 
 ## Installation and Getting Started
 The examples are provided in a MATLAB project.
