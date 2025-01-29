@@ -15,7 +15,7 @@ The examples are provided in a MATLAB project.
 2. With MATLAB open, navigate to the newly-created project folder and double-click on the project file (`RCK.prj`) to open the project.
 3. The example files are the live scripts within the project.
    - `createRCKModel.mlx`: This example shows how to define and solve the Ramsey-Cass-Koopmans model using MATLAB.
-   - `createRCKModel.mlx`: This example shows how to define and solve the Ramsey-Cass-Koopmans model using MATLAB and the time elimination method to solve the system of ODEs.
+   - `createRCKModelTimeElim.mlx`: This example shows how to define and solve the Ramsey-Cass-Koopmans model using MATLAB and the time elimination method to solve the system of ODEs.
    - `defineRCMParams.mlx`: This example contains the parameter definitions used in the Ramsey-Cass-Koopmans model. The parameters are stored in a structure for later reuse.
    - `parallelRCKMATLAB.mlx`: This example shows how to simulate the MATLAB version of the Ramsey-Cass-Koopmans model using parallel computing constructs to speed up the simulation process.
    - `parallelRCKSimulink.mlx`: This example shows how to simulate the Simulink version of the Ramsey-Cass-Koopmans model using parallel computing constructs to speed up the simulation process.
